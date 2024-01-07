@@ -1,2 +1,2 @@
-# blogs.github.html
+# blogs.github.io
 Blogs personales
