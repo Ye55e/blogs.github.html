@@ -1,8 +1,8 @@
 (function(){
 
     const sliders =[...document.querySelectorAll('.redaccion_body')];
-    const buttonNext = document.querySelector('#siguiente');
-    const buttonBefore= document.querySelector('#anterior');
+    const buttonsiguiente = document.querySelector('#siguiente');
+    const buttonanterior= document.querySelector('#anterior');
 
     let value;
 
