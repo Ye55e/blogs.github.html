@@ -2,3 +2,18 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+:root{
+    --padding-container: 100px 0;
+    --color-title:#001A49
+
+}
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #000;
+    padding: var(--padding-container)
+
+    
+}
